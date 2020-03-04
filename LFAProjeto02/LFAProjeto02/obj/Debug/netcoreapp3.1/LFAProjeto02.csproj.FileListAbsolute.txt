@@ -1,0 +1,11 @@
+C:\Users\Yuri Lucas\source\repos\LFAProjeto02\LFAProjeto02\bin\Debug\netcoreapp3.1\LFAProjeto02.exe
+C:\Users\Yuri Lucas\source\repos\LFAProjeto02\LFAProjeto02\bin\Debug\netcoreapp3.1\LFAProjeto02.deps.json
+C:\Users\Yuri Lucas\source\repos\LFAProjeto02\LFAProjeto02\bin\Debug\netcoreapp3.1\LFAProjeto02.runtimeconfig.json
+C:\Users\Yuri Lucas\source\repos\LFAProjeto02\LFAProjeto02\bin\Debug\netcoreapp3.1\LFAProjeto02.runtimeconfig.dev.json
+C:\Users\Yuri Lucas\source\repos\LFAProjeto02\LFAProjeto02\bin\Debug\netcoreapp3.1\LFAProjeto02.dll
+C:\Users\Yuri Lucas\source\repos\LFAProjeto02\LFAProjeto02\bin\Debug\netcoreapp3.1\LFAProjeto02.pdb
+C:\Users\Yuri Lucas\source\repos\LFAProjeto02\LFAProjeto02\obj\Debug\netcoreapp3.1\LFAProjeto02.csprojAssemblyReference.cache
+C:\Users\Yuri Lucas\source\repos\LFAProjeto02\LFAProjeto02\obj\Debug\netcoreapp3.1\LFAProjeto02.AssemblyInfoInputs.cache
+C:\Users\Yuri Lucas\source\repos\LFAProjeto02\LFAProjeto02\obj\Debug\netcoreapp3.1\LFAProjeto02.AssemblyInfo.cs
+C:\Users\Yuri Lucas\source\repos\LFAProjeto02\LFAProjeto02\obj\Debug\netcoreapp3.1\LFAProjeto02.dll
+C:\Users\Yuri Lucas\source\repos\LFAProjeto02\LFAProjeto02\obj\Debug\netcoreapp3.1\LFAProjeto02.pdb
